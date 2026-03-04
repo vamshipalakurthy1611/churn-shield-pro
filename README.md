@@ -1,73 +1,154 @@
-# Welcome to your Lovable project
+## Project Title: Predictive Modeling and Risk Scoring for Bank Customer Churn ##
 
-## Project info
+Overview:
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This project is a modern web application developed using React, TypeScript, Vite, Tailwind CSS, and shadcn-ui. It provides a scalable and efficient frontend architecture for building responsive and interactive user interfaces. The application is designed with performance optimization, modular structure, and modern development practices in mind.
 
-## How can I edit this code?
+The project can be developed locally using standard development tools such as Node.js, npm, Git, and VS Code, and it can also be managed and updated through the Lovable platform, which allows AI-assisted development and automatic repository synchronization.
 
-There are several ways of editing your application.
+Project Information
 
-**Use Lovable**
+This project was initially created and managed using the Lovable development platform, which allows developers to generate and modify applications using AI prompts.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Project URL:
+https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made through the Lovable platform are automatically committed and synchronized with the GitHub repository.
 
-**Use your preferred IDE**
+## Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+The application is built using the following technologies:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+React – JavaScript library for building user interfaces
 
-Follow these steps:
+TypeScript – Typed superset of JavaScript for better maintainability
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+Vite – Fast build tool and development server
+
+Tailwind CSS – Utility-first CSS framework for responsive design
+
+shadcn-ui – Modern component library for building UI elements
+
+These technologies ensure high performance, maintainability, and scalability.
+
+Getting Started
+Prerequisites
+
+Before running this project locally, ensure the following tools are installed:
+
+Node.js (LTS version recommended)
+
+npm (Node Package Manager)
+
+Git
+
+Visual Studio Code (recommended IDE)
+
+## Installation and Setup
+Step 1: Clone the Repository
+
+Clone the repository using the project's Git URL.
+
 git clone <YOUR_GIT_URL>
+Step 2: Navigate to the Project Directory
+cd <PROJECT_NAME>
+Step 3: Install Dependencies
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Install all required project dependencies.
 
-# Step 3: Install the necessary dependencies.
-npm i
+npm install
+Step 4: Run the Development Server
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Start the development environment with hot reloading.
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+After running the command, the application will be available at:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+http://localhost:5173
+Editing the Project
+Using Lovable Platform
 
-**Use GitHub Codespaces**
+You can edit the project directly through the Lovable platform by providing prompts. Any changes made through Lovable will automatically update the GitHub repository.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Steps:
 
-## What technologies are used for this project?
+Open the Lovable project page.
 
-This project is built with:
+Provide instructions or prompts for changes.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Lovable generates and commits the updated code automatically.
 
-## How can I deploy this project?
+Using Local Development Environment
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Developers can also modify the project using their preferred IDE such as VS Code.
 
-## Can I connect a custom domain to my Lovable project?
+## Steps:
 
-Yes, you can!
+Clone the repository
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Open the project folder in VS Code
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Make changes to the source files
+
+Commit and push updates to GitHub
+
+Editing Files Directly in GitHub
+
+You can also modify files directly within GitHub:
+
+Navigate to the file you want to edit.
+
+Click the Edit (pencil icon).
+
+Make the necessary changes.
+
+Commit the changes.
+
+Using GitHub Codespaces
+
+GitHub Codespaces allows cloud-based development without local installation.
+
+## Steps:
+
+Open the repository main page.
+
+Click the Code button.
+
+Select the Codespaces tab.
+
+Create a New Codespace.
+
+Edit and commit files directly within the cloud environment.
+
+Deployment
+
+The project can be deployed directly using the Lovable platform.
+
+### Steps:
+
+Open the Lovable project.
+
+Click Share.
+
+Select Publish.
+
+This will generate a public deployment link for the application.
+
+Custom Domain Setup
+
+You can connect a custom domain to your project.
+
+## Steps:
+
+Go to Project Settings in Lovable.
+
+Navigate to Domains.
+
+Click Connect Domain.
+
+Configure your custom domain.
+
+## Conclusion
+
+This project demonstrates the use of modern frontend technologies to build scalable, responsive, and efficient web applications. By combining React, TypeScript, Vite, Tailwind CSS, and shadcn-ui, the project provides a strong foundation for developing high-performance web interfaces while enabling easy collaboration and deployment through GitHub and Lovable.
