@@ -149,6 +149,8 @@ Click Connect Domain.
 
 Configure your custom domain.
 
+live project link: http://localhost:5173/
+
 ## Conclusion
 
 This project demonstrates the use of modern frontend technologies to build scalable, responsive, and efficient web applications. By combining React, TypeScript, Vite, Tailwind CSS, and shadcn-ui, the project provides a strong foundation for developing high-performance web interfaces while enabling easy collaboration and deployment through GitHub and Lovable.
